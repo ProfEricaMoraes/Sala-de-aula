@@ -1,6 +1,14 @@
 Hello World!!!
 
-Que bom te ver por aqui!!! 
+Que bom ver você por aqui!!! 
+
+h2 {
+
+}
+h2 {
+    color: orange;
+}
+
 
 HTML
 Hypertext Markup Language (em português, Linguagem de Marcação de Hipertexto) estrutura a sua página web
